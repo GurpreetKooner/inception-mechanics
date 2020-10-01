@@ -7,8 +7,3 @@ try:
         print(line)
 except Exception as e:
     print("text in ab.txt is:- ",e)
-# except (FileNotFoundError,ZeroDivisionError):
-#     print("Error!!!!!!!!!!!!!!!!!!!")
-#  except ZeroDivisionError:
-#      print("divisio by zero not allowed")
-#  aoixhsoujwoijssijzlsasQHOWIOSANXJSHUAIJskhuijjij
