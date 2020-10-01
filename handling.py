@@ -6,4 +6,4 @@ try:
     for line in f:
         print(line)
 except Exception as e:
-    print("Anything at all",e)
+    print("text in ab.txt is:- ",e)
